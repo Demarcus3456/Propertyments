@@ -1,0 +1,85 @@
+.section-3 {
+    background-color: gray;
+    height: 1500px;
+    width: 1400px;
+}
+.img-1 {
+    position: absolute;
+    top: 1650px;
+    left: 100px;
+    height: 300px;
+    width: 500px;
+    border: 3px solid black;
+}
+.img-2 {
+    position: absolute;
+    top: 2000px;
+    left: 100px;
+    height: 300px;
+    width: 500px;
+    border: 3px solid black;
+}
+.img-3 {
+    position: absolute;
+    top: 2350px;
+    left: 750px;
+    height: 300px;
+    width: 500px;
+    border: 3px solid black;
+}
+.img-4 {
+    position: absolute;
+    top: 2484px;
+    left: 750px;
+    height: 300px;
+    width: 500px;
+    border: 3px solid black;
+}
+.first-h3 {
+position: relative;
+top: 100px;
+left: 700px;
+font-size: x-large;
+}
+.first-p {
+position: relative;
+top: 120px;
+left: 650px;
+font-size: large;
+}
+.second-h3 {
+position: relative;
+top: 350px;
+left: 700px;
+font-size: x-large;
+}
+.second-p {
+position: relative;
+top: 370px;
+left: 650px;
+font-size: large;
+}
+.third-h3 {
+position: relative;
+top: 600px;
+left: 100px;
+font-size: x-large;
+}
+.third-p {
+position: relative;
+top: 620px;
+left: 50px;
+font-size: large;
+}
+.fourth-h3 {
+    position: relative;
+    top: 850px;
+    left: 100px;
+    font-size: x-large;
+}
+.fourth-p {
+    position: relative;
+    top: 870px;
+    left: 50px;
+    font-size: large;
+}
