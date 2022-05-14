@@ -1,85 +1,69 @@
-.section-3 {
-    background-color: gray;
-    height: 1500px;
-    width: 1400px;
+
+.section-3{
+ background-color: #f6f6f6;
+
 }
-.img-1 {
-    position: absolute;
-    top: 1650px;
-    left: 100px;
-    height: 300px;
-    width: 500px;
-    border: 3px solid black;
+
+/*
+.section-3 div p{
+
+    
+    font-size: 1,25rem;
+    float: right;
 }
-.img-2 {
-    position: absolute;
-    top: 2000px;
-    left: 100px;
-    height: 300px;
-    width: 500px;
-    border: 3px solid black;
-}
-.img-3 {
-    position: absolute;
-    top: 2350px;
-    left: 750px;
-    height: 300px;
-    width: 500px;
-    border: 3px solid black;
-}
-.img-4 {
-    position: absolute;
-    top: 2484px;
-    left: 750px;
-    height: 300px;
-    width: 500px;
-    border: 3px solid black;
-}
-.first-h3 {
-position: relative;
-top: 100px;
-left: 700px;
-font-size: x-large;
-}
-.first-p {
-position: relative;
-top: 120px;
-left: 650px;
-font-size: large;
-}
-.second-h3 {
-position: relative;
-top: 350px;
-left: 700px;
-font-size: x-large;
-}
-.second-p {
-position: relative;
-top: 370px;
-left: 650px;
-font-size: large;
-}
-.third-h3 {
-position: relative;
-top: 600px;
-left: 100px;
-font-size: x-large;
-}
-.third-p {
-position: relative;
-top: 620px;
-left: 50px;
-font-size: large;
-}
-.fourth-h3 {
+*/
+
+
+.section-3 div.Features{
+  
+    float: none;
+    text-align: left;
     position: relative;
-    top: 850px;
-    left: 100px;
-    font-size: x-large;
+    display: grid;
+  
 }
-.fourth-p {
+
+.section-3 div.Features2{
+    float: none;
+    text-align: left;
     position: relative;
-    top: 870px;
-    left: 50px;
-    font-size: large;
+    display: grid;
+    gap: 3em;
+   
 }
+
+
+
+.section-3 div.Features3{
+    float: none;
+    text-align: left;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+gap: 10em;
+margin-bottom: 8em;
+   
+}
+
+.section-3 div.content{
+
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: rgb(68, 66, 66);
+    text-align: right;
+   
+ 
+    
+    
+}
+
+
+.section-3 div img{
+ 
+
+    width: 30%;
+    float: right 10%;
+    
+
+}
+
